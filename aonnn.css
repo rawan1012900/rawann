@@ -1,0 +1,208 @@
+@charset "utf-8";
+/* CSS Document */
+
+body
+{
+	 width: 80;
+    padding: 0;
+    margin-top: 90px;
+    margin-right: 90px;
+    margin-left: 90px;
+    margin-bottom: 90px;
+    background-color: lavender;
+    direction: rtl;
+}
+
+.container
+{
+    width: 80;
+    margin-top: 90px;
+    margin-right: 90px;
+    margin-left: 90px;
+    margin-bottom: 90px;
+    overflow: hidden;
+	
+}
+header {
+    background-color: #A690C2;
+    text-align: center;
+}
+
+ul{
+	margin: 0;
+	padding: 0;
+	
+}
+nav li {
+    width: 1312px;
+    height: 50px;
+    color: black;
+    text-align: right;
+
+}
+#newsletter {
+}
+
+body nav li {
+    color: #2B2526;
+}
+
+body nav {
+    color: #1E1919;
+    text-align: center;
+}
+
+
+footer {
+    background-color: #9783B5;
+}
+.current a {
+    color: #241D1D;
+}
+body nav li {
+    color: #131010;
+}
+
+
+
+nav li{
+    float: left;
+    display: inline;
+    padding-top: 0;
+    padding-right: 95px;
+    padding-left: 20px;
+    padding-bottom: 0;
+}
+
+#showcase
+{
+    min-height: 400px;
+    background: url("images/1111.jpg") no-repeat center;
+    background-size: cover;
+	
+	
+}
+
+
+
+#newsletter 
+{
+    color: #E6E6E6;
+    background-color: #C0ACCB;
+    padding-top: 2px;
+    padding-right: 2px;
+    padding-bottom: 2px;
+    padding-left: 2px;
+   
+}
+
+
+#newsletter h1 {
+	float: right;
+
+	
+}
+#boxes .container .box {
+
+
+}
+body p {
+    text-align: center;
+}
+footer p {
+    text-align: center;
+
+
+}
+.nav li current {
+    color: #C1B8B8;
+    text-align: center;
+}
+body nav {
+    color: #FBFBFB;
+    text-align: center;
+    text-shadow: 0px 0px #E3E0E0;
+    background-color: #BCA1C8;
+}
+body nav li {
+    background-color: #F8F8F8;
+    -webkit-box-shadow: 0px 0px #9581AF;
+    box-shadow: 0px 0px #9581AF;
+    width: 875px;
+    height: 28px;
+    margin-right: 46px;
+    margin-left: 124px;
+    margin-top: 4px;
+    padding-right: 229px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    padding-left: 109px;
+}
+
+
+
+.current {
+    color: #100F0F;
+    text-align: right;
+    text-shadow: 0px 0px #1C1919;
+    -webkit-box-shadow: 0px 0px #131212;
+    box-shadow: 0px 0px #131212;
+}
+body nav li {
+    color: #211F1F;
+    text-align: right;
+}
+
+
+p class {
+    text-align: right;
+}
+
+
+
+
+#newsletter form
+{
+float: left;
+	margin-top: 15px;
+	
+	
+}
+#newsletter input[type="email"]
+{
+padding: 4px;
+	height: 25px;
+	width: 250px;
+	
+}
+
+#boxes
+{
+	margin-top: 20px;
+
+}
+#boxes ,box
+{
+	float: right;
+	text-align: center;
+	width: 30%;
+	padding: 10px;
+	
+	
+	
+}
+body img {
+    margin-right: 215px;
+}
+body p {
+    text-align: right;
+}
+body h5 {
+    text-align: center;
+}
+body h5 {
+    width: 150px;
+    height: 117px;
+    margin-right: 885px;
+    margin-top: -40px;
+}
